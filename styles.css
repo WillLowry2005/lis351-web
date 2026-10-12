@@ -64,7 +64,7 @@ a:hover { text-decoration: underline; }
 .hero {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)),
-    url("images/pickleball-main.jpg");
+    url("pickleball-main.jpg");
 
   background-size: cover;
   background-position: center;
@@ -224,11 +224,11 @@ a:hover { text-decoration: underline; }
 
 /* Optional images (already provided) */
 .img-a {
-  background-image: url("images/pickleball-hero.jpg");
+  background-image: url("pickleball-hero.jpg");
 }
 
 .img-b {
-  background-image: url("images/pickleball-game.jpg");
+  background-image: url("pickleball-game.jpg");
 }
 
 /* ===== CTA ===== */
